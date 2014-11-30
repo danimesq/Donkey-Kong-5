@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 1</name>
+    <events>
+        <comment>If the player goes outside the layout, bring them back in.</comment>
+        <event-block sid="631812854543158">
+            <conditions>
+                <condition id="-4" name="Is outside layout" sid="2189504379997606" type="Kiddy" />
+            </conditions>
+            <actions>
+                <action id="-3" name="Set position" sid="9367170388731763" type="Kiddy">
+                    <param id="0" name="X">138</param>
+                    <param id="1" name="Y">191</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
