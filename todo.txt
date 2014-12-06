@@ -1,0 +1,9 @@
+Support to keyboard
+Better support to joystick
+Adaptability in smartphones
+Virtual on-screen buttons
+Adaptability in TVs
+Follow system
+Save games in JSON
+Support to 2 players with joystick
+Support to 2 players in net
