@@ -2,13 +2,13 @@
 <c2project>
     <name>Donkey Kong 5</name>
     <description></description>
-    <version>1.0.5</version>
-    <author></author>
-    <author-email></author-email>
+    <version>5</version>
+    <author>Daniell Mesquita</author>
+    <author-email>daniellplasma@gmail.com</author-email>
     <author-website></author-website>
-    <app-id></app-id>
+    <app-id>com.***.dkc5</app-id>
     <unique-id>2lk2j861pqdh8</unique-id>
-    <saved-with-version>19000</saved-with-version>
+    <saved-with-version>20100</saved-with-version>
     <used-plugins>
         <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
         <plugin author="Scirra" id="gamepad" version="1">Gamepad</plugin>
@@ -32,7 +32,7 @@
     <use-loader-layout>0</use-loader-layout>
     <configuration-settings>
         <prop name="Fullscreen in browser">Off</prop>
-        <prop name="Preview browser">Firefox</prop>
+        <prop name="Preview browser">NW.js</prop>
         <prop name="Preview mode">HTTP</prop>
     </configuration-settings>
     <object-folder>

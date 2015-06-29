@@ -1,9 +1,13 @@
-Support to keyboard
-Better support to joystick
-Adaptability in smartphones
-Virtual on-screen buttons
-Adaptability in TVs
-Follow system
-Save games in JSON
-Support to 2 players with joystick
-Support to 2 players in net
+ X | Support to keyboard
+ X | Better support to joystick
+ X | Adaptability in smartphones
+ X | Virtual on-screen buttons
+ X | Adaptability in TVs
+ X | Follow system
+ X | Save games in JSON
+ X | Support to 2 players with joystick
+ X | Support to 2 players in net
+ X | 
+ X | 
+ X | 
+ X | 
